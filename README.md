@@ -1,7 +1,6 @@
 # Week-1-
 
-## APP_NAME_HERE
-Muser
+## Muser
 
 ### App Description
 Tinder, but for music for discovering and rating new music.
